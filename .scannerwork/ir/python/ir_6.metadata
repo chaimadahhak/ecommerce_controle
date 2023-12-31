@@ -1,0 +1,4 @@
+nom_de_l_application.models.Commande.get_panier_total
+sum
+==
+all

@@ -1,0 +1,3 @@
+nom_de_l_application.models.Commande.__str__
+str
+str.__init__

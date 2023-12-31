@@ -1,0 +1,7 @@
+organization=chaimadahhak
+projectKey=chaimadahhak_testdjango
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=chaimadahhak_testdjango
+ceTaskId=AYzBBv8edQeBgNtVRr1x
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzBBv8edQeBgNtVRr1x

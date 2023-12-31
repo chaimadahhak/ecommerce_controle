@@ -1,0 +1,28 @@
+-
++nom_de_l_application.forms.produitform.Meta@
+&nom_de_l_application.forms.produitformdjango.forms.ModelForm9
+$nom_de_l_application.forms.LoginFormdjango.forms.Formw
+$nom_de_l_application.models.Category7
+__str__,nom_de_l_application.models.Category.__str__django.db.models.Models
+"nom_de_l_application.models.Client5
+__str__*nom_de_l_application.models.Client.__str__django.db.models.Model‰
++nom_de_l_application.models.CommandeArticleB
+	get_total5nom_de_l_application.models.CommandeArticle.get_totaldjango.db.models.ModelÜ
+$nom_de_l_application.models.Commande7
+__str__,nom_de_l_application.models.Commande.__str__M
+get_panier_article7nom_de_l_application.models.Commande.get_panier_articleI
+get_panier_total5nom_de_l_application.models.Commande.get_panier_totalI
+produit_physique5nom_de_l_application.models.Commande.produit_physiquedjango.db.models.Model¯
+#nom_de_l_application.models.Produit6
+__str__+nom_de_l_application.models.Produit.__str__8
+imageUrl,nom_de_l_application.models.Produit.imageUrldjango.db.models.Model*
+(nom_de_l_application.models.Produit.Meta…
++nom_de_l_application.models.AddressChipping>
+__str__3nom_de_l_application.models.AddressChipping.__str__django.db.models.ModelB
+)nom_de_l_application.apps.MyappEcomConfigdjango.apps.AppConfigP
+-nom_de_l_application.admin.CategoryModelAdmindjango.contrib.admin.ModelAdminO
+,nom_de_l_application.admin.ProduitModelAdmindjango.contrib.admin.ModelAdminN
++nom_de_l_application.admin.ClientModelAdmindjango.contrib.admin.ModelAdminP
+-nom_de_l_application.admin.CommandeModelAdmindjango.contrib.admin.ModelAdminW
+4nom_de_l_application.admin.CommandeArticleModelAdmindjango.contrib.admin.ModelAdminW
+4nom_de_l_application.admin.AddressChippingModelAdmindjango.contrib.admin.ModelAdmin
